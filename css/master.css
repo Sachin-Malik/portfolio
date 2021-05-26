@@ -123,6 +123,10 @@ body {
   padding: 5% 10%;
 }
 
+#experience {
+  padding: 5% 0%;
+}
+
 .progress-bar-green {
   background-color: #45b29a !important;
 }
@@ -132,7 +136,7 @@ body {
 }
 
 #coding {
-  padding: 10% 15%;
+  padding: 5% 15%;
   padding-bottom: 5%;
 }
 
@@ -141,8 +145,7 @@ body {
   padding-top: 5%;
 }
 
-#coding p {
-}
+#coding p {}
 
 .home-cloud {
   background-image: url("../images/home.svg");
